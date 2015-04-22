@@ -1,10 +1,10 @@
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   body {
     padding: 0 10px; }
     body #container ul.posts .datetime {
       float: none;
       display: block;
-      width: auto;
+      width: 600px;
       text-align: left; }
     body #container #ind-instagram, body #container #ind-linkedin {
       display: none; }
