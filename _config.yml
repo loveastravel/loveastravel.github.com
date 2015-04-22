@@ -13,10 +13,10 @@ links:
     url:          http://muan.co
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          974855173@qq.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          https://github.com/loveastravel
     external:     true
 highlighter:      pygments
 permalink:        pretty
