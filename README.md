@@ -1,35 +1,63 @@
-Travelog Theme
+Scribble
+========
+
+A jekyll theme. [Want a demo? click and read instruction. :point_left:](http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/)
+<br />
+[More themes](https://github.com/muan/muan.github.com/releases).
+
+![screenshot](http://scribble.muan.co/images/screenshot.png)
+
+There is no clever design philosophy to talk about, I tried to find something to work with, and 'scribble' came to my mind. 
+
+This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS & CoffeeScript, though .scss & .coffee files wouldn't be included in the theme. 
+
+The theme is mobile optimised but I did not check browser compatibility. It looks great in Chrome, Safari and Firefox though.
+
 ---
 
-Travelog is a theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple.
+### Get started
 
-![](http://i.imgur.com/FrNwKav.png)
+1. [Fork the repository](https://github.com/muan/scribble/fork).
+2. Clone the repository to your computer.<br /> `git clone https://github.com/username/scribble`
+3. `bundle install`
+4. **Using older versions of Jekyll**<br />
+  Build and run jekyll using `jekyll --server --auto`.<br />
+  **Using [Jekyll 1.0](http://blog.parkermoore.de/2013/05/06/jekyll-1-dot-0-released/)**<br />
+  Build Jekyll using `jekyll build`.<br />
+  Then run Jekyll using `jekyll serve --watch`, go to http://localhost:4000 for your site.
 
-In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
+---
 
-It has been designed to be an easy layout to modify for your own blog. See the installation instructions below to get started.
+### Make it yours
 
-### Installation
+1. I have extract most user specific information to `_config.yml`, you should be able to set up almost everything from it.
+2. Change about.md for blog intro.
+3. For domain settings, see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages).
 
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/travelog-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/travelog-theme`
-- Run the jekyll server: `jekyll serve -w`
+---
 
-You should have a server up and running locally at <http://localhost:4000>.
+### GitHub Pages stuff
 
-### Customization 
+The `gh-pages` branch of this repository is [the project page](http://scribble.muan.co), which **should not** be used as your blog, so use `master` branch for your blog. This is assuming your blog repository will be called [your-username].github.io, if this is not the case, you will need to delete the `gh-pages` repository and create a branch off the `master` branch. Hope that's clear.
 
-To customize the theme to your hearts content, check out what's in `_config.yml` as that's where you'll pull your name, Twitter username, things like that.
+---
 
+### Options
 
-### Deployment
+When writing a post, there are 3 options you can add to the header.
 
-Travelog is designed to be deployed to [GitHub Pages](https://pages.github.com/). 
+1. **disqus: y**<br />
+  If disqus is set to 'y', at the end of the post there will be a disqus thread, just like this one. To use disqus, you MUST [set up your own disqus account](http://disqus.com/).
 
+2. **share: y**<br />
+  An option for showing tweet and like button under a post.
 
-### License
+3. **date**: 2013-05-06 18:07:17<br />
+  Date is not a required header since Jekyll reads the file name for date, this was added in only for the **signoff time**. (as shown at the end of this post) If you don't want the signoff time, go into `/includes/signoff.html` remove the `<span>`, and remove `{% include signoff.html %}` from `/layouts/post.html`.
 
-[MIT](https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE)
+---
 
-Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@rowanoulton](https://twitter.com/rowanoulton/).
+### The end
+
+Like it? [Tell me](http://twitter.com/muanchiou).<br/>
+Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
