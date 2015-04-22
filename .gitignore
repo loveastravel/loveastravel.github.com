@@ -1,3 +1,5 @@
-_site/
+# Jekyll
+_site
+
+# Sass
 .sass-cache
-.ruby-version
