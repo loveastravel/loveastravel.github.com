@@ -17,7 +17,7 @@ title: About
 
 **About Us**
 
-We are a [software developer](https://ca.linkedin.com/in/longshengzhou) and a [statistician](https://ca.linkedin.com/pub/yukun-zhang/35/83b/892) living in Calgary, AB, Canada.
+We are a [software developer](http://lszhou.github.io/about/) and a [statistician](http://gemqueen.github.io/about/) living in Calgary, AB, Canada.
 
 You could find us via [Facebook](https://www.facebook.com/longsheng.zhou), [Flickr](https://www.flickr.com/photos/lszhou), [@weibo](http://www.weibo.com/2614496813/profile?rightmod=1&wvr=6&mod=personinfo).
 
