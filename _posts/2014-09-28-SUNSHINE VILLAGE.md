@@ -3,7 +3,7 @@ layout: post
 title: 畅游落基山.第二季.SUNSHINE VILLAGE  
 ---
 
-这是今年Research Group集体出洞第二次Hiking，也是今年最后一次。全体人员基本到齐，除去悲催睡过头的Aman以及突然重感冒的Lisa除外。最值得一提的是上次Helen Lake Hiking中受重伤的Maryam H竟然也出现了，着实不易。勇气可嘉，但是其中Philipp的怂恿也起了巨大的作用。先贴一张集体照：
+这是今年Research Group集体出动第二次Hiking，也是今年最后一次。全体人员基本到齐，除去悲催睡过头的Aman以及突然重感冒的Lisa除外。最值得一提的是上次Helen Lake Hiking中受重伤的Maryam H竟然也出现了，着实不易, 勇气可嘉，但是其中Philipp的怂恿也起了巨大的作用。先贴一张集体照：
 
 ![](http://i.imgur.com/pz1AxoD.jpg)
 
