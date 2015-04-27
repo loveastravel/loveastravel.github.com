@@ -23,7 +23,7 @@ Prince's Island Park，中文直译为王子岛公园，是卡城市中心一个
 
 ![](http://i.imgur.com/8sDJnLx.jpg)
 
-春江水暖鸭先知，其实应该对应的改为“弓湖水暖鹅先知”。这里的‘鹅’就是著名的加拿大鹅，Canada Goose. 王子岛公园以及Downtown弓湖周边地带一直是Canada Goose的传统聚居地。他们更像是这里的主人，人来到这个公园倒像是个客人。
+春江水暖鸭先知，其实应该对应的改为“弓河水暖鹅先知”。这里的‘鹅’就是著名的加拿大鹅，Canada Goose. 王子岛公园以及Downtown弓湖周边地带一直是Canada Goose的传统聚居地。他们更像是这里的主人，人来到这个公园倒像是个客人。
 
 ![](http://i.imgur.com/HhF9Gxn.jpg)
 
