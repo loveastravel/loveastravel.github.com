@@ -6,7 +6,7 @@ title: Prince's Island Park
 
 Prince's Island Park，中文直译为王子岛公园，是卡城市中心一个开放式自然风景公园。
 
-尽管冠名为“王子”公园，但简单阅读City of Calgary的[介绍](http://www.calgary.ca/CSPS/Parks/Pages/Locations/Downtown-parks/Princes-Island-Park.aspx)便可知，"Prince"其实是个人名的。该公园是以Peter Anthony Prince命名的。伐木工人Prince，1886年从魁北克来到卡尔加里成立了Eau Claire伐木场，为了从Kananaskis地区往伐木场运送原木用于生产，于是开挖了一条水道，进而形成了如今的岛形地势。经过政府改造就成了如今的岛形公园。因此以Prince命名也就顺理成章了。
+尽管冠名为“王子”公园，但简单阅读City of Calgary的[介绍](http://www.calgary.ca/CSPS/Parks/Pages/Locations/Downtown-parks/Princes-Island-Park.aspx)便可知，"Prince"其实是个人名: Peter Anthony Prince。伐木工人Peter，1886年从魁北克来到卡尔加里成立了Eau Claire伐木场，为了从Kananaskis地区往伐木场运送原木用于生产，于是开挖了一条水道，渐渐形成了如今的岛形地势。Peter死后，卡尔加里市政府通过购买的方式将这块地方收归市政府，经过改造就成了如今的岛形公园。因此以Prince命名也就顺理成章了。
 
 ![](http://i.imgur.com/sL0OgFp.jpg)
 

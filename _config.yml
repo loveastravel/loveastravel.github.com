@@ -1,22 +1,16 @@
 title:            Love.As.Travel
 description:      
-url:              # Site url.
-signoff:          # Your name.
+url:  http://loveastravel.github.io/            # Site url.
+signoff: Longsheng Zhou       # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: Love.As.Travel # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
     url:          /about
   - name:         Blog
     url:          http://loveastravel.github.io/
-    external:     true
-  - name:         Email
-    url:          lszhou2115@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          https://github.com/loveastravel
     external:     true
 highlighter:      pygments
 permalink:        pretty
