@@ -15,14 +15,14 @@ title: Moments
 ###2015-05-16 
 今天晚上我们俩回顾复仇者联盟1，电视搬到客厅连电脑，我做了绿茶低咖星冰乐，奶油打了得有半小时才成功，第一次！
 
-<img src="http://i.imgur.com/yfXAuDh.jpg" width="25%" height="35%">
-<img src="http://i.imgur.com/lF6J65R.jpg" width="25%" height="35%">
+<img src="http://i.imgur.com/yfXAuDh.jpg" width="25%" height="30%">
+<img src="http://i.imgur.com/lF6J65R.jpg" width="25%" height="30%">
 
 ###2015-05-16 
 二师弟要去西天取经了！
 
-<img src="http://i.imgur.com/iIUcLDq.jpg" width="25%" height="35%">
-<img src="http://i.imgur.com/vvTjrn6.jpg" width="25%" height="35%">
+<img src="http://i.imgur.com/iIUcLDq.jpg" width="25%" height="30%">
+<img src="http://i.imgur.com/vvTjrn6.jpg" width="25%" height="30%">
 
 
 ###2015-05-15 
@@ -35,7 +35,7 @@ title: Moments
 ###2015-05-15
 我的新帽子，潮不潮？
 
-<img src="http://i.imgur.com/9QkLVgr.jpg" width="25%" height="35%">
+<img src="http://i.imgur.com/9QkLVgr.jpg" width="25%" height="30%">
 
 ###2015-05-15
 今天是星期五，周恩及捏儿第一个星期上班，累得要命，幸运的是接下来是长周末。以前一直幻想我们俩都工作以后周末会多么轻松幸福，机会终于来了!
@@ -43,7 +43,7 @@ title: Moments
 ####2015-05-13
 这是以前周末的照片，发两张感受一下
 
-<img src="http://i.imgur.com/C8h0NMx.jpg" width="25%" height="25%">
-<img src="http://i.imgur.com/cOQ287N.jpg" width="25%" height="25%">
+<img src="http://i.imgur.com/C8h0NMx.jpg" width="50%" height="50%">
+<img src="http://i.imgur.com/cOQ287N.jpg" width="50%" height="50%">
 
 
