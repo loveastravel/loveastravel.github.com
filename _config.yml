@@ -12,6 +12,8 @@ links:
   - name:         Blog
     url:          http://loveastravel.github.io/
     external:     true
+  - name:         Moments
+    url:          /moments
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
