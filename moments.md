@@ -35,7 +35,15 @@ title: Moments
 ###2015-05-15
 我的新帽子，潮不潮？
 
-<img src="http://i.imgur.com/9QkLVgr.jpg" width="25%" height="40%">
+<img src="http://i.imgur.com/9QkLVgr.jpg" width="25%" height="35%">
 
 ###2015-05-15
 今天是星期五，周恩及捏儿第一个星期上班，累得要命，幸运的是接下来是长周末。以前一直幻想我们俩都工作以后周末会多么轻松幸福，机会终于来了!
+
+####2015-05-13
+这是以前周末的照片，发两张感受一下
+
+<img src="http://i.imgur.com/C8h0NMx.jpg" width="25%" height="25%">
+<img src="http://i.imgur.com/cOQ287N.jpg" width="25%" height="25%">
+
+
