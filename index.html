@@ -11,11 +11,3 @@ layout: index
   {% endfor %}
 </ul>
 
-<ul class="moments">
-  {% for moments in site.moments %}
-  <li>
-    <small class="datetime muted" data-time="{{ moments.date }}">{{ moments.date | date_to_string }} </small>
-    <a href="{{ moments.url }}">{{ moments.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
