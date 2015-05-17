@@ -4,7 +4,7 @@ title: Moments
 ---
 
 ###2015-05-17 3:31PM
-![drawing](http://i.imgur.com/65p2Tj5.jpg =100x20)
+![drawing](http://i.imgur.com/65p2Tj5.jpg =10x20)
 
 
 
