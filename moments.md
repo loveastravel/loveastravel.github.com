@@ -2,11 +2,12 @@
 layout: page
 title: Moments
 ---
-
+###2015-05-17 7:07PM
+刚刚出去打篮球，打了一会儿说去看兔子，结果看见7只兔子，1只鹰还有n只鹅和鸭子，哈哈。舂暖花开草长莺飞！晚上继续看电影！
 ###2015-05-17 3:31PM
 今天我刷碗，看见这个袋被周XX写上kitchen legs，我把他叫过来，说：“读一读”。 他说：“Chicken Legs”。我顿时觉得，原来是智商是硬伤，不是英语是硬伤。然后我说，既然英语那么差，干嘛要写英文？他答：因为腿字不会写。。。。
 
-<img src="http://i.imgur.com/65p2Tj5.jpg" width="25%" height="25%">
+<img src="http://i.imgur.com/65p2Tj5.jpg" width="50%" height="50%">
 
 
 ###2015-05-17 3:29PM
